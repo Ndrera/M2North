@@ -1,0 +1,31 @@
+SETUP INSTRUCTION
+-----------------
+
+Section 2:
+Please find the data.php file in github
+
+
+Section 3:
+This is a laravel system
+
+1. Setup your database credentials in the .env file
+2. Run migration [ php artisan migrate ]
+3. Run seeder [ php artisan db:seed]
+4. Login Credentials for 3 Users[
+
+email: admin@ourmail.com
+password: Admin@2020
+
+email: siya@ourmail.com
+password: Siya@2020
+
+email: mike@ourmail.com
+password: Siya@2020
+
+
+e.g If you for some reasons you want to double check the login credentilas
+    you can see them in the seeder class named: UsersTableSeeder
+]
+
+
+Thank You. You good to go!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
